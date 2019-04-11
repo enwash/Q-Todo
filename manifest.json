@@ -1,7 +1,7 @@
 {
   "name": "Q Todo",
-  "description": "Beautiful new tab page to replace the default",
-  "version": "1.0.2",
+  "description": "A minimal todo list app that opens with the click of a button.",
+  "version": "1.0.3",
   "permissions": [
     "declarativeContent",
     "storage",
