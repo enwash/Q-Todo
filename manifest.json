@@ -1,7 +1,7 @@
 {
   "name": "Q Todo",
   "description": "Beautiful new tab page to replace the default",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "permissions": [
     "declarativeContent",
     "storage",
